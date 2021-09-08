@@ -263,7 +263,7 @@
                     </div>
 
                 </div>
-                <a href="/product">
+
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
                     <div class="" style="height: 200px">
@@ -279,8 +279,6 @@
                     </div>
 
                 </div>
-
-                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -303,8 +301,6 @@
 
             <div class="w-80 mx-auto flex mt-8">
 
-                <a href="/product">
-
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
                     <div class="" style="height: 200px">
@@ -320,8 +316,6 @@
                     </div>
 
                 </div>
-
-                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -339,7 +333,6 @@
 
                 </div>
 
-                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -363,8 +356,6 @@
 
             <div class="w-80 mx-auto flex mt-8">
 
-                <a href="/product">
-
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
                     <div class="" style="height: 200px">
@@ -380,8 +371,6 @@
                     </div>
 
                 </div>
-                
-                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -399,7 +388,7 @@
 
                 </div>
 
-                <a href="/product">
+
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
                     <div class="" style="height: 200px">
@@ -449,7 +438,7 @@
 
 
             <div class="w-100 mx-auto flex mt-8">
-                <a href="/product">
+
                 <div class="w-30 mr-6 rounded text-center py-4">
 
                     <div>
@@ -476,7 +465,6 @@
                     </div>
 
                 </div>
-                <a href="/product">
                 <div class="w-30 mr-6 rounded text-center py-4">
 
                     <div>
@@ -503,7 +491,7 @@
                     </div>
 
                 </div>
-                <a href="/product">
+
 
                <div class="w-30 mr-6 rounded text-center py-4">
 
@@ -560,7 +548,33 @@
 
 
             <div class="w-100 mx-auto flex mt-8">
-                <a href="/product">
+
+                <div class="w-30 mr-6 rounded text-center py-4">
+
+                    <div>
+
+                        <img src={{ asset('images/Picture2.jpg') }}>
+
+                    </div>
+
+                    <div class="text-center text-green-darker">
+                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
+
+                        <div class="-mt-6">
+                            <ul class="list inline-block text-yellow">
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                            </ul>
+                        </div>
+                        
+                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
+                    </div>
+
+                </div>
                 <div class="w-30 mr-6 rounded text-center py-4">
 
                     <div>
@@ -588,35 +602,6 @@
 
                 </div>
 
-                <a href="/product">
-                <div class="w-30 mr-6 rounded text-center py-4">
-
-                    <div>
-
-                        <img src={{ asset('images/Picture2.jpg') }}>
-
-                    </div>
-
-                    <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
-                        <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
-
-                        <div class="-mt-6">
-                            <ul class="list inline-block text-yellow">
-                                <li class=""><i class="fas fa-star "></i></li>
-                                <li class=""><i class="fas fa-star "></i></li>
-                                <li class=""><i class="fas fa-star "></i></li>
-                                <li class=""><i class="fas fa-star "></i></li>
-                                <li class=""><i class="fas fa-star "></i></li>
-                            </ul>
-                        </div>
-                        
-                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
-                    </div>
-
-                </div>
-
-                <a href="/product">
 
                <div class="w-30 mr-6 rounded text-center py-4">
 
@@ -668,7 +653,17 @@
 
             <div class="w-100 mx-auto flex mt-8 pt-6 pl-8">
 
-                <a href="/product">
+                <div class="w-30 mr-6 rounded text-center py-18 px-4 bg-grey-light">
+
+                    <div class="text-center text-green-darker">
+                        <p class="font-bold">
+                            6 Pollution-Reducing Resolutions for a More Sustainable 2021
+
+                        </p>
+                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
+                    </div>
+
+                </div>
 
                 <div class="w-30 mr-6 rounded text-center py-18 px-4 bg-grey-light">
 
@@ -682,21 +677,6 @@
 
                 </div>
 
-                <a href="/product">
-
-                <div class="w-30 mr-6 rounded text-center py-18 px-4 bg-grey-light">
-
-                    <div class="text-center text-green-darker">
-                        <p class="font-bold">
-                            6 Pollution-Reducing Resolutions for a More Sustainable 2021
-
-                        </p>
-                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
-                    </div>
-
-                </div>
-
-                <a href="/product">
                 <div class="w-30 mr-6 rounded text-center py-18 px-4 bg-grey-light">
 
                     <div class="text-center text-green-darker">
