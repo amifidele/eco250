@@ -123,216 +123,169 @@
 
             <div class="w-70">
 
-                <div class="w-95 mx-auto flex mt-8 ">
+                
+            <div class="w-95 mx-auto flex mt-8 ">
 
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
+
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/GlassContainer.jpg') }}>
+
                     </div>
-    
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Glass Container</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
                     </div>
-    
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+
+                </div>
+
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
+
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/ShampooBar.jpg') }}>
+
                     </div>
-    
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Glass Container</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
+                    </div>
+
+                </div>
+
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
+
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/soap.jpg') }}>
+
+                    </div>
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Glass Container</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="w-95 mx-auto flex mt-8">
+
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
+
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/coffee.jpg') }}>
+
+                    </div>
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Reusable coffee mug</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
+                    </div>
+
+                </div>
+
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
+
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/lazer.jpg') }}>
+
+                    </div>
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Standard Lazer</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
+                    </div>
+
                 </div>
 
 
-                <div class="w-95 mx-auto flex mt-8 ">
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/s5006271.png') }}>
+
                     </div>
-    
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Reusable coffee mug</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
                     </div>
-    
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
-                    </div>
-    
+
                 </div>
 
 
-                <div class="w-95 mx-auto flex mt-8 ">
+            </div>
 
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+
+            <div class="w-95 mx-auto flex mt-8">
+
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
+
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/ManstrualCup.jfif') }}>
+
                     </div>
-    
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Manstrual Cup</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
                     </div>
-    
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+
+                </div>
+
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
+
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/Silicone.jpg') }}>
+
                     </div>
-    
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Standard Silicone</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
+                    </div>
+
                 </div>
 
 
-                <div class="w-95 mx-auto flex mt-8 ">
+                <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+                    <div class="" style="height: 200px">
+
+                        <img class="clip-full" src={{ asset('images/bike.jpeg') }}>
+
                     </div>
-    
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
+
+                    <div class="text-center text-green-darker pt-1">
+                        <p class="text-xl -mt-2">Bike</p>
+                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
                     </div>
-    
-                    <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
-    
-                        <div>
-    
-                            <img class="w-50" src={{ asset('images/Picture2.jpg') }}>
-    
-                        </div>
-    
-                        <div class="text-center text-green-darker">
-                            <p class="text-xl -mt-2">The refill bottle</p>
-                            <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                            <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
-                        </div>
-    
-                    </div>
-    
+
                 </div>
+
+
+            </div>
+
 
             </div>
 
