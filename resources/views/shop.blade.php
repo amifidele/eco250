@@ -8,6 +8,9 @@
 
         <link href="//netdna.bootstrapcdn.com/font-awesome/5.15.4/css/font-awesome.css" rel="stylesheet">
 
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+        integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
         <title>Eco250.rw</title>
 
         <style>
@@ -102,8 +105,9 @@
                     <p class=" font-bold -mt-4">Shop By Categories</p>
 
                 </div>
+                
 
-                <div>
+                <div class="sticky">
 
                     <ul>
                         <li class="my-2 text-lg"><input type="checkbox" class="mr-2">Eco Home</li>
@@ -301,6 +305,15 @@
                 <h1 class="text-4xl font-bold -mt-2">NEW ARRIVAL PRODUCTS</h1>
             </div>
 
+            <div class="absolute l-4 text-3xl text-green pt-32">
+                <i class="fas fa-chevron-left"></i>
+            </div>
+
+            <div class="absolute r-15 text-3xl text-green pt-32">
+                <i class="fas fa-chevron-right"></i>
+            </div>
+
+
             <div class="w-100 mx-auto flex mt-8">
 
                 <div class="w-30 mr-6 rounded text-center py-4">
@@ -313,28 +326,22 @@
 
                     <div class="text-center text-green-darker">
                         <p class="text-xl -mt-2">The refill bottle</p>
-                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
+                        <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
+
+                        <div class="-mt-6">
+                            <ul class="list inline-block text-yellow">
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                            </ul>
+                        </div>
+                        
                         {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
                     </div>
 
                 </div>
-
-                <div class="w-30 mr-6 rounded   text-center py-4">
-
-                    <div>
-
-                        <img src={{ asset('images/Picture2.jpg') }}>
-
-                    </div>
-
-                    <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
-                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
-                    </div>
-
-                </div>
-
                 <div class="w-30 mr-6 rounded text-center py-4">
 
                     <div>
@@ -345,14 +352,55 @@
 
                     <div class="text-center text-green-darker">
                         <p class="text-xl -mt-2">The refill bottle</p>
-                        <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
-                        <i class="fas fa-star"></i>
+                        <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
+
+                        <div class="-mt-6">
+                            <ul class="list inline-block text-yellow">
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                            </ul>
+                        </div>
+                        
+                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
+                    </div>
+
+                </div>
+
+
+               <div class="w-30 mr-6 rounded text-center py-4">
+
+                    <div>
+
+                        <img src={{ asset('images/Picture2.jpg') }}>
+
+                    </div>
+
+                    <div class="text-center text-green-darker">
+                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
+
+                        <div class="-mt-6">
+                            <ul class="list inline-block text-yellow">
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                            </ul>
+                        </div>
+                        
                         {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
                     </div>
 
                 </div>
 
             </div>
+
+
+
 
 
 

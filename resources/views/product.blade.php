@@ -8,6 +8,9 @@
 
         <link href="//netdna.bootstrapcdn.com/font-awesome/5.15.4/css/font-awesome.css" rel="stylesheet">
 
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+        integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
         <title>Product </title>
 
         <style>
@@ -88,7 +91,7 @@
             <div class="w-50 text-green-dark">
 
                 <div>
-                    <img class="w-80 clip-full" src="{{ asset('images/Reusable_Glass_Mug.jpg') }}">
+                    <img class="w-80 clip-full" src="{{ asset('images/wooden-handle-safety-razor.jpg') }}">
                 </div>
 
 
@@ -181,6 +184,118 @@
 
         </div>
 
+
+          {{-- Isaro Eco kits --}}
+
+          <div class="w-100 mx-auto pl-32 bg-white ">
+
+            <div class="text-center font-bold text-green-darker pt-10 mt-10">
+                <h1 class="text-xl">BROWSE</h1>
+                <h1 class="text-4xl font-bold -mt-2">NEW ARRIVAL PRODUCTS</h1>
+            </div>
+
+            <div class="absolute l-10 ml-6 text-3xl text-green pt-32">
+                <i class="fas fa-chevron-left"></i>
+            </div>
+
+            <div class="absolute r-15 text-3xl text-green pt-32">
+                <i class="fas fa-chevron-right"></i>
+            </div>
+
+
+            <div class="w-90 mx-auto flex mt-8">
+
+                <div class="w-30 mr-6 rounded text-center py-4">
+
+                    <div>
+
+                        <img src={{ asset('images/Picture2.jpg') }}>
+
+                    </div>
+
+                    <div class="text-center text-green-darker">
+                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
+
+                        <div class="-mt-6">
+                            <ul class="list inline-block text-yellow">
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                            </ul>
+                        </div>
+                        
+                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
+                    </div>
+
+                </div>
+                <div class="w-30 mr-6 rounded text-center py-4">
+
+                    <div>
+
+                        <img src={{ asset('images/Picture2.jpg') }}>
+
+                    </div>
+
+                    <div class="text-center text-green-darker">
+                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
+
+                        <div class="-mt-6">
+                            <ul class="list inline-block text-yellow">
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                            </ul>
+                        </div>
+                        
+                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
+                    </div>
+
+                </div>
+
+
+               <div class="w-30 mr-6 rounded text-center py-4">
+
+                    <div>
+
+                        <img src={{ asset('images/Picture2.jpg') }}>
+
+                    </div>
+
+                    <div class="text-center text-green-darker">
+                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
+
+                        <div class="-mt-6">
+                            <ul class="list inline-block text-yellow">
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                                <li class=""><i class="fas fa-star "></i></li>
+                            </ul>
+                        </div>
+                        
+                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+
+
+
+        </div>
+
+        {{-- Isaro Eco Kits --}}
 
 
 
