@@ -90,7 +90,7 @@
 
         <div class="">
 
-            <div class="w-80 mx-auto flex pt-12 ">
+            <div class="w-80 mx-auto flex  text-center pt-12 ">
 
                 <div class="w-25 mr-4">
 
@@ -111,12 +111,12 @@
 
                     <div class="border-2 border-green-dark rounded relative z-0">
 
-                        <img class="rounded" src="{{ asset('images/home.jpg') }}">
+                        <img class="rounded" src="{{ asset('images/living.jpg') }}">
 
                     </div>
 
                     <div class="w-80 mx-auto font-bold text-center text-green-dark shadow bg-white py-4 -mt-6 z-1 relative">
-                        <span>Eco Home</span>
+                        <span>Eco Living</span>
                     </div>
 
 
@@ -126,12 +126,12 @@
 
                     <div class="border-2 border-green-dark rounded relative z-0">
 
-                        <img class="rounded" src="{{ asset('images/home.jpg') }}">
+                        <img class="rounded" src="{{ asset('images/lady.jpg') }}">
 
                     </div>
 
                     <div class="w-80 mx-auto font-bold text-center text-green-dark shadow bg-white py-4 -mt-6 z-1 relative">
-                        <span>Eco Home</span>
+                        <span>Eco Lady</span>
                     </div>
 
 
@@ -141,12 +141,12 @@
 
                     <div class="border-2 border-green-dark rounded relative z-0">
 
-                        <img class="rounded" src="{{ asset('images/home.jpg') }}">
+                        <img class="rounded" src="{{ asset('images/move.jpg') }}">
 
                     </div>
 
                     <div class="w-80 mx-auto font-bold text-center text-green-dark shadow bg-white py-4 -mt-6 z-1 relative">
-                        <span>Eco Home</span>
+                        <span>Eco move</span>
                     </div>
 
 
@@ -162,67 +162,54 @@
 
         <div class="">
 
-            <div class="w-80 mx-auto flex pt-8 ">
+            <div class="w-80 mx-auto text-center flex pt-8 ">
 
-                <div class="w-25 mr-4">
+                <div class="w-30 mr-4">
 
                     <div class="border-2 border-green-dark rounded relative z-0">
 
-                        <img class="rounded" src="{{ asset('images/home.jpg') }}">
+                        <img class="rounded" src="{{ asset('images/garden.jpg') }}">
 
                     </div>
 
                     <div class="w-80 mx-auto font-bold text-center text-green-dark shadow bg-white py-4 -mt-6 z-1 relative">
-                        <span>Eco Home</span>
+                        <span>Eco Garden</span>
                     </div>
 
 
                 </div>
 
-                <div class="w-25 mr-4">
+                <div class="w-30 mr-4">
 
                     <div class="border-2 border-green-dark rounded relative z-0">
 
-                        <img class="rounded" src="{{ asset('images/home.jpg') }}">
+                        <img class="rounded" src="{{ asset('images/decor.jpg') }}">
 
                     </div>
 
                     <div class="w-80 mx-auto font-bold text-center text-green-dark shadow bg-white py-4 -mt-6 z-1 relative">
-                        <span>Eco Home</span>
+                        <span>Eco Decor</span>
                     </div>
 
 
                 </div>
 
-                <div class="w-25 mr-4">
+                <div class="w-30 mr-4">
 
                     <div class="border-2 border-green-dark rounded relative z-0">
 
-                        <img class="rounded" src="{{ asset('images/home.jpg') }}">
+                        <img class="rounded" src="{{ asset('images/furniture.jpg') }}">
 
                     </div>
 
                     <div class="w-80 mx-auto font-bold text-center text-green-dark shadow bg-white py-4 -mt-6 z-1 relative">
-                        <span>Eco Home</span>
+                        <span>Eco Furniture</span>
                     </div>
 
 
                 </div>
 
-                <div class="w-25 mr-4">
-
-                    <div class="border-2 border-green-dark rounded relative z-0">
-
-                        <img class="rounded" src="{{ asset('images/home.jpg') }}">
-
-                    </div>
-
-                    <div class="w-80 mx-auto font-bold text-center text-green-dark shadow bg-white py-4 -mt-6 z-1 relative">
-                        <span>Eco Home</span>
-                    </div>
-
-
-                </div>
+                
 
                 
 

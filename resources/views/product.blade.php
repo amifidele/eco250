@@ -49,7 +49,7 @@
 
                     <ul class="list inline-block text-green-dark pt-3">
                         <li class="text-xl font-bold mr-5">Eco Impact</li>
-                        <li class="text-xl font-bold mr-5">Shop</li>
+                        <li class="text-xl font-bold mr-5"><a href="/shop">Shop</a></li>
                         <li class="text-xl font-bold mr-5">WholeSale</li>
                         <li class="text-xl font-bold mr-5">Double Impact</li>
                         <li class="text-xl font-bold mr-5">Blog</li>
@@ -94,7 +94,7 @@
 
                 <div class="w-100 mx-auto text-left pt-4">
                     <p class="">
-                        <span><img class="" style="width: 7%" src="{{ asset('images/plant.png') }}"></span>
+                        <span><img class="" style="width: 5%" src="{{ asset('images/care.png') }}"></span>
                         <b>Are you looking for ineffective dental care</b><br>
                         that is Kind to Earth? Then look no further. 
                         This Bamboo Toothbrush, made with 100% Castor Bean Oil and USDA Certified 100% bio-based bristles, 
@@ -105,7 +105,7 @@
 
                 <div class="w-100 mx-auto text-left pt-1">
                     <p class="">
-                        <span><img class="" style="width: 7%" src="{{ asset('images/plant.png') }}"></span>
+                        <span><img class="" style="width: 7%" src="{{ asset('images/altenate.png') }}"></span>
                         <b>Are you looking for ineffective dental care</b><br>
                         that is Kind to Earth? Then look no further. 
                         This Bamboo Toothbrush, made with 100% Castor Bean Oil and USDA Certified 100% bio-based bristles, 
@@ -160,11 +160,15 @@
 
                 <div class="w-70 mx-auto text-left pt-4">
                     <p class="">
-                        <span><img class="w-10" src="{{ asset('images/plant.png') }}"></span>
-                        <b>Are you looking for ineffective dental care</b><br>
-                        that is Kind to Earth? Then look no further. 
-                        This Bamboo Toothbrush, made with 100% Castor Bean Oil and USDA Certified 100% bio-based bristles, 
-                        is a perfect alternative for plastic toothbrushes that are pilling up in our landfills!
+                        <span><img class="" style="width: 7%" src="{{ asset('images/flower.png') }}"></span>
+                        <b>Ingredients</b><br>
+                         - Bristles: 100% castor bean oil.<br>
+                         - Handle: 100% organic bamboo<br>
+                         - Naturally grown bamboo<br>
+                         - Natural bacteria fighting properties<br>
+                         - Verified Non toxic<br>
+                         - BPA free<br>
+                         - Compostable handle<br>
                     </p>
                 </div>
 
