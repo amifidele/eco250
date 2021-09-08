@@ -96,7 +96,7 @@
 
         <div class="w-90 mx-auto flex text-green-dark">
 
-            <div class="w-30">
+            <div class="w-20">
 
                 <div class="text-xl">
 
@@ -125,7 +125,7 @@
 
             </div>
 
-            <div class="w-70">
+            <div class="w-80">
 
                 
             <div class="w-95 mx-auto flex mt-8 ">

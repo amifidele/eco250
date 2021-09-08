@@ -233,6 +233,8 @@
 
         {{-- products --}}
 
+        <a href="/product">
+
         <div class="pl-8">
 
             <div class="text-center font-bold text-green-darker pt-10 mt-10">
@@ -244,6 +246,7 @@
             </div>
 
             <div class="w-80 mx-auto flex mt-8 ">
+                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -260,7 +263,7 @@
                     </div>
 
                 </div>
-
+                <a href="/product">
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
                     <div class="" style="height: 200px">
@@ -276,6 +279,8 @@
                     </div>
 
                 </div>
+
+                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -298,6 +303,8 @@
 
             <div class="w-80 mx-auto flex mt-8">
 
+                <a href="/product">
+
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
                     <div class="" style="height: 200px">
@@ -313,6 +320,8 @@
                     </div>
 
                 </div>
+
+                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -330,6 +339,7 @@
 
                 </div>
 
+                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -353,6 +363,8 @@
 
             <div class="w-80 mx-auto flex mt-8">
 
+                <a href="/product">
+
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
                     <div class="" style="height: 200px">
@@ -368,6 +380,8 @@
                     </div>
 
                 </div>
+                
+                <a href="/product">
 
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
@@ -385,7 +399,7 @@
 
                 </div>
 
-
+                <a href="/product">
                 <div class="w-30 mr-6 rounded border-1 border-grey-dark  text-center py-4">
 
                     <div class="" style="height: 200px">
@@ -411,6 +425,8 @@
 
         </div>
 
+        </a>
+
 
         {{-- end product --}}
 
@@ -433,7 +449,7 @@
 
 
             <div class="w-100 mx-auto flex mt-8">
-
+                <a href="/product">
                 <div class="w-30 mr-6 rounded text-center py-4">
 
                     <div>
@@ -460,6 +476,7 @@
                     </div>
 
                 </div>
+                <a href="/product">
                 <div class="w-30 mr-6 rounded text-center py-4">
 
                     <div>
@@ -486,7 +503,7 @@
                     </div>
 
                 </div>
-
+                <a href="/product">
 
                <div class="w-30 mr-6 rounded text-center py-4">
 
@@ -543,7 +560,7 @@
 
 
             <div class="w-100 mx-auto flex mt-8">
-
+                <a href="/product">
                 <div class="w-30 mr-6 rounded text-center py-4">
 
                     <div>
@@ -570,6 +587,8 @@
                     </div>
 
                 </div>
+
+                <a href="/product">
                 <div class="w-30 mr-6 rounded text-center py-4">
 
                     <div>
@@ -597,6 +616,7 @@
 
                 </div>
 
+                <a href="/product">
 
                <div class="w-30 mr-6 rounded text-center py-4">
 
@@ -648,17 +668,7 @@
 
             <div class="w-100 mx-auto flex mt-8 pt-6 pl-8">
 
-                <div class="w-30 mr-6 rounded text-center py-18 px-4 bg-grey-light">
-
-                    <div class="text-center text-green-darker">
-                        <p class="font-bold">
-                            6 Pollution-Reducing Resolutions for a More Sustainable 2021
-
-                        </p>
-                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
-                    </div>
-
-                </div>
+                <a href="/product">
 
                 <div class="w-30 mr-6 rounded text-center py-18 px-4 bg-grey-light">
 
@@ -672,6 +682,21 @@
 
                 </div>
 
+                <a href="/product">
+
+                <div class="w-30 mr-6 rounded text-center py-18 px-4 bg-grey-light">
+
+                    <div class="text-center text-green-darker">
+                        <p class="font-bold">
+                            6 Pollution-Reducing Resolutions for a More Sustainable 2021
+
+                        </p>
+                        {{-- <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a> --}}
+                    </div>
+
+                </div>
+
+                <a href="/product">
                 <div class="w-30 mr-6 rounded text-center py-18 px-4 bg-grey-light">
 
                     <div class="text-center text-green-darker">
