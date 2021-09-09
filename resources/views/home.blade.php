@@ -34,7 +34,7 @@
                 </div>
 
                 <div class="w-50  text-white font-bold text-left ">
-                    <span>Trees Planted : 5 000</span>
+                    <span>Trees Planted : 100</span>
                 </div>
 
             </div>
@@ -179,9 +179,9 @@
 
                 <div class="w-30 mr-4">
 
-                    <div class="border-2 border-green-dark rounded relative z-0">
+                    <div class="border-2 border-green-dark rounded relative z-0" style="height: 190px">
 
-                        <img class="rounded" src="{{ asset('images/garden.jpg') }}">
+                        <img class="rounded clip-full" src="{{ asset('images/f5b18e15-edf6-42e9-9bc1-fb751b4a7de1.jfif') }}">
 
                     </div>
 
@@ -343,7 +343,7 @@
                     </div>
 
                     <div class="text-center text-green-darker pt-1">
-                        <p class="text-xl -mt-2">Reusable coffee mug</p>
+                        <p class="text-xl -mt-2">Reusable Pad</p>
                         <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
                         <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
                     </div>
@@ -393,12 +393,12 @@
 
                     <div class="" style="height: 200px">
 
-                        <img class="clip-full" src={{ asset('images/bike.jpeg') }}>
+                        <img class="clip-full" src={{ asset('images/production-1024-RqMYiOSFqyMp-07B45BC986D14D83963AA575AAACB0F0.jpg') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker pt-1">
-                        <p class="text-xl -mt-2">Bike</p>
+                        <p class="text-xl -mt-2">Scooter </p>
                         <p class="text-xl -mt-4 font-bold">10,000 Frw</p>
                         <a class="btn bg-green-light font-bold py-1 w-80 pb-3 -mt-2">Add to cart</a>
                     </div>
@@ -432,7 +432,7 @@
                 <i class="fas fa-chevron-left"></i>
             </div>
 
-            <div class="absolute r-15 text-3xl text-green pt-32">
+            <div class="absolute r-10 text-3xl text-green pt-32">
                 <i class="fas fa-chevron-right"></i>
             </div>
 
@@ -469,12 +469,12 @@
 
                     <div>
 
-                        <img src={{ asset('images/Picture2.jpg') }}>
+                        <img src={{ asset('images/lazer.jpg') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2">Standard Lazer</p>
                         <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
 
                         <div class="-mt-6">
@@ -497,12 +497,12 @@
 
                     <div>
 
-                        <img src={{ asset('images/Picture2.jpg') }}>
+                        <img src={{ asset('images/s5006271.png') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2">Reusable pad</p>
                         <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
 
                         <div class="-mt-6">
@@ -542,7 +542,7 @@
                 <i class="fas fa-chevron-left"></i>
             </div>
 
-            <div class="absolute r-15 text-3xl text-green pt-32">
+            <div class="absolute r-10 text-3xl text-green pt-32">
                 <i class="fas fa-chevron-right"></i>
             </div>
 
@@ -579,12 +579,12 @@
 
                     <div>
 
-                        <img src={{ asset('images/Picture2.jpg') }}>
+                        <img src={{ asset('images/lazer.jpg') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2">Standard Lazer</p>
                         <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
 
                         <div class="-mt-6">
@@ -607,12 +607,12 @@
 
                     <div>
 
-                        <img src={{ asset('images/Picture2.jpg') }}>
+                        <img src={{ asset('images/s5006271.png') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2">Reusable pad</p>
                         <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
 
                         <div class="-mt-6">
@@ -631,6 +631,7 @@
                 </div>
 
             </div>
+
 
 
 
@@ -816,7 +817,7 @@
                 <i class="fas fa-chevron-left"></i>
             </div>
 
-            <div class="absolute r-15 text-3xl text-green pt-32">
+            <div class="absolute r-10 text-3xl text-green pt-32">
                 <i class="fas fa-chevron-right"></i>
             </div>
 
@@ -853,12 +854,12 @@
 
                     <div>
 
-                        <img src={{ asset('images/Picture2.jpg') }}>
+                        <img src={{ asset('images/lazer.jpg') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2">Standard Lazer</p>
                         <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
 
                         <div class="-mt-6">
@@ -881,12 +882,12 @@
 
                     <div>
 
-                        <img src={{ asset('images/Picture2.jpg') }}>
+                        <img src={{ asset('images/s5006271.png') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2">Reusable pad</p>
                         <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
 
                         <div class="-mt-6">
@@ -905,6 +906,7 @@
                 </div>
 
             </div>
+
 
 
 

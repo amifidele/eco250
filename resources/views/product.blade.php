@@ -194,16 +194,16 @@
                 <h1 class="text-4xl font-bold -mt-2">NEW ARRIVAL PRODUCTS</h1>
             </div>
 
-            <div class="absolute l-10 ml-6 text-3xl text-green pt-32">
+            <div class="absolute l-4 text-3xl text-green pt-32">
                 <i class="fas fa-chevron-left"></i>
             </div>
 
-            <div class="absolute r-15 text-3xl text-green pt-32">
+            <div class="absolute r-10 text-3xl text-green pt-32">
                 <i class="fas fa-chevron-right"></i>
             </div>
 
 
-            <div class="w-90 mx-auto flex mt-8">
+            <div class="w-100 mx-auto flex mt-8">
 
                 <div class="w-30 mr-6 rounded text-center py-4">
 
@@ -235,12 +235,12 @@
 
                     <div>
 
-                        <img src={{ asset('images/Picture2.jpg') }}>
+                        <img src={{ asset('images/lazer.jpg') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2">Standard Lazer</p>
                         <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
 
                         <div class="-mt-6">
@@ -263,12 +263,12 @@
 
                     <div>
 
-                        <img src={{ asset('images/Picture2.jpg') }}>
+                        <img src={{ asset('images/s5006271.png') }}>
 
                     </div>
 
                     <div class="text-center text-green-darker">
-                        <p class="text-xl -mt-2">The refill bottle</p>
+                        <p class="text-xl -mt-2">Reusable pad</p>
                         <p class="text-xl -mt-2 font-bold">10,000 Frw</p>
 
                         <div class="-mt-6">
@@ -287,6 +287,8 @@
                 </div>
 
             </div>
+
+
 
 
 
