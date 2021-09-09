@@ -51,7 +51,7 @@
                 <div class="w-60  text-center">
 
                     <ul class="list inline-block text-green-dark pt-3">
-                        <li class="text-xl font-bold mr-5">Eco Impact</li>
+                        <li class="text-xl font-bold mr-5"><a href="/about">Eco Impact</a></li>
                         <li class="text-xl font-bold mr-5"><a href="/shop">Shop</a></li>
                         <li class="text-xl font-bold mr-5">WholeSale</li>
                         <li class="text-xl font-bold mr-5">Double Impact</li>

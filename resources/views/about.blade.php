@@ -85,7 +85,7 @@
 
         {{-- end menu --}}
 
-        <img class="-mt-48 z-0" src="{{ asset('images/website.jpg') }}">
+        <img class="-mt-48 z-0" src="{{ asset('images/Website.jpg') }}">
 
     </body>
 
