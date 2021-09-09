@@ -25,7 +25,7 @@
 
 
 
-            <div class="w-100 bg-green-dark py-2 flex">
+            <div class="w-100 bg-green-darker py-2 flex">
                 
                 <div class="w-50 pl-4">
 
@@ -48,7 +48,7 @@
                 <div class="w-60  text-center">
 
                     <ul class="list inline-block text-green-dark pt-2">
-                        <li class="text-xl font-bold mr-20">Eco Impact</li>
+                        <li class="text-xl font-bold mr-20"><a href="/about">Eco Impact</a></li>
                         <li><a class="btn bg-green-darker px-1 py-1 font-bold text-xl rounded-full text-white mt-1" href="/shop">Go To</a></li>
                         <li> <span><img class="w-80 -ml-8 -mt-3" src="{{ asset('images/shop.png') }}"></span></li>
                     </ul>
